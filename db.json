@@ -115,6 +115,18 @@
       "password": "$2a$10$VkvaBkhnm4k3KP/yCdhCgu/qtzxe7F00CVkTsAsr5pbfU8rPVZEQW",
       "role": "admin",
       "id": 3
+    },
+    {
+      "email": "atendent@nb.com",
+      "password": "$2a$10$rwFFwoxwhub3c8S2tj7Enuigw2fBvBn8byaFBnEMQ8h3rGRlmXRXO",
+      "role": "atendente",
+      "id": 4
+    },
+    {
+      "email": "administrador@nb.com",
+      "password": "$2a$10$XAJgDhUTd.LnQ4MZSrebAuWaawZc5SPiEyii48ANywcVY7BqZTbyW",
+      "role": "admin",
+      "id": 5
     }
   ]
 }
